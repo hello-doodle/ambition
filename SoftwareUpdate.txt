@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Replacing Images for torchscript.md (#8596)
